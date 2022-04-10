@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb212308BFE3Ae44398A73C294b2B047bc486BC54",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb212308bfe3ae44398a73c294b2b047bc486bc54",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nervous Narwhals",
+  "SYMBOL": "NNS",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nervous-narwhals",
+  "SHOW_BACKGROUND": false
+}
